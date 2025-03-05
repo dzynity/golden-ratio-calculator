@@ -1,6 +1,6 @@
 # golden-ratio-calculator
 Use our Golden Ratio Calculator to effortlessly apply this principle to your projects. Achieve visually pleasing and balanced designs in architecture and interior design.
-Access the tool on the link below
+Access the tool on the link 
 https://www.dzynity.com/golden-ratio-calculator
 
 # Understanding and Using the Golden Ratio: A Comprehensive Guide
